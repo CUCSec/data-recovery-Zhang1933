@@ -56,7 +56,6 @@
   * 鼠标右键点击recover，然后选择你的路径。点击ok
   恢复成功！
   ![dog](/img/finish.PNG)
-  <font color=bule>GG</font>
 
                                                          
 
